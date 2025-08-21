@@ -1,1 +1,1 @@
-**About Me:** My name is Storie,
+**About Me:** My name is Storie, and I am adopted from China. I have two siblings and live with my parents. Some things I enjoy doing are baking, cooking, gaming, and playing sports like basketball and golf. My favorite genres of music are pop, folk, and some rap (depends on the type). Some of my favorite games at the moment are Red Dead Redemption 2, Elden Ring, and Rainbow Six Siege.
