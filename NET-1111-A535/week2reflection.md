@@ -5,4 +5,5 @@
 **Key differences between switches and routers**
 
 Switch- Connects devices inside the same network, helping them share data
+
 Router- Connects different networks, Ex, it links your home network to the internet.
