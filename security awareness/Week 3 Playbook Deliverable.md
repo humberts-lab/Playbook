@@ -6,6 +6,7 @@ Kidnap- A crime that involves capturing a person and then holding them captive u
 
 **Note to self:**
 Understand how to use CrackStation or other websites to hack passwords
+
 Need to study OSI 7 Layer model
 
 Longer passwords are actually harder to hack than more complex ones
