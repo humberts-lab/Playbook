@@ -4,7 +4,7 @@ Malware- Software that enters a computer system without the user’s knowledge o
 
 Kidnap- A crime that involves capturing a person and then holding them captive until a ransom is paid for their release.
 
-**Note to self**
+**Note to self:**
 Understand how to use CrackStation or other websites to hack passwords
 
 Longer passwords are actually harder to hack than more complex ones
